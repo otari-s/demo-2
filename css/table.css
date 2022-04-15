@@ -1,0 +1,66 @@
+.shcedule {
+  width: 960px;
+
+  min-height: 300px;
+  margin: 40px auto;
+}
+table td {
+  border-bottom: 1px solid #dfe2e5;
+}
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+.first-th {
+  padding-bottom: 22px;
+  padding-top: 21px;
+  font-family: "Lato", sans-serif;
+  vertical-align: top;
+  padding-right: 45px;
+  text-align: right;
+  width: 20%;
+  color: #648880;
+  font-size: 24px;
+  font-weight: 500;
+}
+th {
+  padding-bottom: 22px;
+  padding-top: 21px;
+  font-family: "Lato", sans-serif;
+  vertical-align: top;
+  padding-right: 45px;
+  text-align: right;
+  width: 20%;
+  color: #648880;
+  font-size: 15px;
+  font-weight: 400;
+}
+
+td {
+  padding-bottom: 22px;
+  vertical-align: top;
+  padding-top: 21px;
+  font-family: "Lato", sans-serif;
+  color: #648880;
+  font-size: 15px;
+  font-weight: 400;
+  padding-right: 10px;
+}
+td a {
+  text-decoration: none;
+  padding-bottom: 22px;
+  vertical-align: top;
+  padding-top: 21px;
+  font-family: "Lato", sans-serif;
+  color: #648880;
+  font-size: 15px;
+  font-weight: 400;
+}
+.last-td {
+  border: none;
+}
+td a span {
+  font-size: 20px;
+  font-weight: 500;
+  color: #648880;
+}
